@@ -50,3 +50,26 @@ body{
     margin: 2rem auto;
     text-align: center;
 }
+
+.underlined{
+    text-decoration: underline;
+}
+.middle-container{
+    width: 800px;
+    margin: 2rem auto;
+    border: 1px solid red;
+}
+.skills img{
+    width: 100px;
+}
+.img-skill1{
+    float: left;
+    margin-right: 2rem;
+    margin-top: 1rem; 
+}
+
+.img-skill2{
+    float: right;
+    margin-left: 2rem;
+    margin-top: 2rem;  
+}
